@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "uniwind";
+
+@theme {
+  --text-base: 16px;
+}
